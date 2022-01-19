@@ -1,7 +1,7 @@
 ## Kodluyoruz İlk Repo
 
 
-!()
+!(https://github.com/alpayoguz/kodluyoruzilkrepo/blob/main/photo.jpg)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.com)  Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html dosyası barındırıyor.
 
