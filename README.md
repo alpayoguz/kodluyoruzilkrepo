@@ -1,6 +1,6 @@
 ## Kodluyoruz İlk Repo
 
-(/relative/path/to/photo.png?raw=true "Optional Title")
+![](photo.png)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.com)  Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html dosyası barındırıyor.
 
